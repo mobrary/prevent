@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.activiti:activiti-engine:7-201802-EA">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/7-201802-EA/activiti-engine-7-201802-EA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/7-201802-EA/activiti-engine-7-201802-EA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/7-201802-EA/activiti-engine-7-201802-EA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
